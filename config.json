@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersncrypt",
+        "uuid": 3198418,
+        "checksum": "bknapo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
